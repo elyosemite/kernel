@@ -60,3 +60,35 @@ make all
 
 # Run in QEMU
 make run
+```
+
+### Documentation Structure
+```bash
+docs
+├── ARCHITECTURE.md      # Kernel design decisions
+├── CULTURE_GUIDE.md     # Brazilian Northeast references
+├── CONTRIBUTING.md      # Student contribution guidelines
+└── LESSON_PLAN.md       # Suggested learning path
+```
+
+### Contributing
+We welcome student contributions! Here's how to help:
+
+First Timers
+Look for `good-first-issue` tagged issues
+
+Documentation
+Help translate comments or improve tutorials
+
+Code Contributions
+Follow our Contribution Guidelines
+
+This README:
+1. Highlights educational focus
+2. Explains cultural aspects without overcomplicating
+3. Provides clear setup instructions
+4. Encourages student participation
+5. Manages expectations about project scope
+6. Links to learning resources
+
+Would you like me to create any specific subsection in more detail (like contribution guidelines or architecture explanation)?
